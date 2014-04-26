@@ -1,0 +1,4 @@
+{
+  "shell": true,
+  "cmd": ["killall -v java  ; processing-java  --sketch=$file_path --output=$file_path/build --force --build --run "]
+}

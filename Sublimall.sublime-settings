@@ -1,0 +1,22 @@
+{
+    ////////////////////////////
+    //// Sublimall settings ////
+    ////////////////////////////
+    "api_root": "http://sublimall.org",
+    "api_upload_url": "/api/upload/",
+    "api_retrieve_url": "/api/retrieve/",
+
+    ///////////////////////
+    //// User settings ////
+    ///////////////////////
+    "email": "tastuder@msn.com",
+    "api_key": "c5a79e6a6b35848ccdb24f92a81e1b42a86e0501",
+    // Set true if you want to exclude packages managed by Package Control
+    "exclude_from_package_control": false,
+    // Set false if you don't want to encrypt your configuration
+    "encrypt": true,
+    // Upload timeout in seconds
+    "http_upload_timeout": 60,
+    // 7zip binary path (Sublimall will try to find it itself)
+    "7za_path": "/usr/local/bin/7za"
+}
