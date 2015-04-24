@@ -1,0 +1,29 @@
+{
+	"color_scheme": "Packages/FireCode Theme/FireCode.tmTheme",
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Git",
+		"Vintage",
+		"Gist",
+		"Predawn",
+		"SideBarEnhancements",
+		"Emmet",
+		"Sublimall",
+		"Markdown",
+		"GitGutter"
+	],
+	"itg_sidebar_tree_small": true,
+	"itg_small_tabs": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "itg.flat.dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

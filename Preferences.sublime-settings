@@ -1,23 +1,30 @@
 {
-	"color_scheme": "Packages/FireCode Theme/FireCode.tmTheme",
-	"font_size": 14.0,
+	"Seti_ClosedFolder_dots": true,
+	"Seti_ClosedFolder_remove": true,
+	"Seti_ClosedFolder_same": true,
+	"bold_folder_labels": true,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/Seti (SL).tmTheme",
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Predawn",
 		"Markdown",
-		"Vintage",
-		"Sublimall"
+		"Origami",
+		"Sublimall",
+		"Theme - Afterglow",
+		"SublimeLinter-html-tidy",
+		"Vintage"
 	],
-	"itg_sidebar_tree_small": true,
-	"itg_small_tabs": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		80
 	],
 	"tab_size": 2,
-	"theme": "itg.flat.dark.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

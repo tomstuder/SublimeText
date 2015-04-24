@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+    #!/usr/bin/env ruby
+  ]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ruby</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+  <description>Ruby Run</description>
+</snippet>
